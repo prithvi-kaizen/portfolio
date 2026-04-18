@@ -6,28 +6,28 @@ const Projects = () => {
       title: 'RAG-based AI Teaching Assistant',
       date: 'Dec 2025',
       desc: 'Engineered a video-to-text pipeline using Whisper to generate transcripts. Implemented RAG via embeddings of video chunks, building a context-aware chat interface for lectures.',
-      repoUrl: 'https://github.com/prithvi-kaizen/ai-teaching-assistant',
+      repoUrl: 'https://github.com/prithvi-kaizen',
       tech: ['Whisper', 'LangChain', 'Vector DB']
     },
     {
       title: 'Local LLM Fine-Tuning & Optimization',
       date: 'Nov 2025',
       desc: 'Fine-tuned a Llama-3 8B model locally on Apple Silicon using the MLX framework with LoRA. Optimized inference latency by 40% through 4-bit quantization.',
-      repoUrl: 'https://github.com/prithvi-kaizen/llm-fine-tuning',
+      repoUrl: 'https://github.com/prithvi-kaizen',
       tech: ['PyTorch', 'MLX', 'Llama-3']
     },
     {
       title: 'Fuzzy Clustering Validity Research',
       date: 'Jun 2025',
       desc: 'Implemented the Fukuyama and Sugeno Index (FSI) to evaluate fuzzy clustering quality. Benchmarked a novel validity index against standard hyperspherical cluster metrics.',
-      repoUrl: 'https://github.com/prithvi-kaizen/fuzzy-clustering',
+      repoUrl: 'https://github.com/prithvi-kaizen',
       tech: ['Python', 'NumPy', 'Fuzzy Logic']
     },
     {
       title: 'Energy Consumption Forecasting',
       date: 'Oct 2025',
       desc: 'Developed a predictive time-series model. Implemented extensive Feature Engineering (lag/rolling stats) to capture seasonality trends with a high R-Squared value.',
-      repoUrl: 'https://github.com/prithvi-kaizen/energy-forecasting',
+      repoUrl: 'https://github.com/prithvi-kaizen',
       tech: ['Python', 'Scikit-learn', 'Pandas']
     }
   ];

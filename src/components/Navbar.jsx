@@ -30,7 +30,7 @@ const Navbar = () => {
           </NavLink>
         </div>
         <a 
-          href="https://github.com/prithvi-kaizen/portfolio" 
+          href="https://drive.google.com/file/d/16Q58f9dTsxSlO_nz9II-QqCw8uRZHU87/view?usp=sharing" 
           target="_blank" 
           rel="noreferrer" 
           className="nav-button"
