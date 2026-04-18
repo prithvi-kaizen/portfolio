@@ -1,4 +1,5 @@
-import { Mail, Phone, BookOpen } from 'lucide-react';
+import { Mail, BookOpen } from 'lucide-react';
+import profilePic from '../assets/profile.png';
 
 const Home = () => {
   const skills = [
@@ -22,7 +23,7 @@ const Home = () => {
           <h2 className="hero-subtitle">ABOUT ME</h2>
           <h3 className="hero-title brand-font">AI & ML Enthusiast</h3>
           <p className="hero-desc">
-            B.Tech in Artificial Intelligence student at Mahindra University (GPA: 8.80). 
+            B.Tech in Artificial Intelligence student at Mahindra University (GPA: 8.85). 
             Passionate about deep learning, AI research, and building practical machine learning models. 
             Actively spearheading the Computer Vision Club and organizing practical technical workshops.
           </p>
@@ -31,8 +32,7 @@ const Home = () => {
         {/* Profile Picture */}
         <div className="bento-item col-span-4 profile-card">
           <div className="profile-img-container">
-            {/* Using a placeholder since we don't have the actual photo. In production, an img tag goes here. */}
-            <span className="profile-placeholder">👨🏻‍💻</span>
+            <img src={profilePic} alt="Prithviraj Patil" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
           </div>
           <div>
             <h3 className="card-title" style={{justifyContent: 'center', margin: '16px 0 4px'}}>Prithviraj Patil</h3>
@@ -48,14 +48,10 @@ const Home = () => {
               <Mail size={18} />
               <span>prithvisp28@gmail.com</span>
             </a>
-            <div className="contact-item">
+            <a href="mailto:se23uari141@mahindrauniversity.edu.in" className="contact-item">
               <Mail size={18} />
-              <span>college.email@mahindrauniv.edu</span>
-            </div>
-            <div className="contact-item">
-              <Phone size={18} />
-              <span>+91 XXXX XXXXXX</span>
-            </div>
+              <span>se23uari141@mahindrauniversity.edu.in</span>
+            </a>
             <a href="https://github.com/prithvi-kaizen" target="_blank" rel="noreferrer" className="contact-item">
               <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.02c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 19 4.38 5.44 5.44 0 0 0 19 1s-1.33-.3-4.4 1.8a14.1 14.1 0 0 0-8 0C3.5 1 2.1 1 2.1 1a5.3 5.3 0 0 0 0 3.38A5.44 5.44 0 0 0 1 7.9c0 5.42 3.3 6.61 6.44 7.03a4.8 4.8 0 0 0-1.05 2.95V22"></path><path d="M9 20c-5 1.5-5-2.5-7-3"></path></svg>
               <span>github.com/prithvi-kaizen</span>
