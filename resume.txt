@@ -1,0 +1,40 @@
+PRITHVIRAJ PATIL
+/githubgithub.com/prithvi-kaizen |/linkedinlinkedin.com/in/prithviraj6544 |/envel⌢peprithvisp28@gmail.com
+Education
+Mahindra University June 2027
+B.Tech in Artificial Intelligence Current GPA: 8.80
+Coursework
+AI & ML: NLP, Computer Vision, Reinforcement Learning, Generative AI (LLMs, RAG, Fine-tuning)
+Math: Linear Algebra, Probability, Statistics, Optimization Techniques, Calculus
+Core CS: Data Structures & Algorithms, OOP (Java), DBMS
+Technical Skills
+Machine Learning : PyTorch, Scikit-learn, OpenCV, TensorFlow, SHAP, LIME
+Languages : Python, Java, SQL
+Dev & Data Tools : Git/GitHub, Pandas, NumPy, Matplotlib, Jupyter, VS Code
+Projects
+RAG-based AI Teaching Assistant |Whisper, LangChain, Vector DB Dec 2025
+•Engineered a video-to-text pipeline using Whisper to generate timestamped transcripts from educational lectures.
+•Implemented RAG by creating embeddings of video chunks, improving answer relevance for long lectures.
+•Built a context-aware query engine allowing users to interact naturally with video content via chat.
+Local LLM Fine-Tuning & Optimization |PyTorch, MLX, Llama-3 Nov 2025
+•Fine-tuned a Llama-3 8B model locally on Apple Silicon using the MLX framework with LoRA adapters.
+•Optimized inference latency by 40% through 4-bit quantization, enabling efficient on-device text generation.
+Fuzzy Clustering Validity Research |Python, NumPy, Fuzzy Logic Jun 2025
+•Implemented the Fukuyama and Sugeno Index (FSI) to evaluate the quality of fuzzy clustering partitions.
+•Benchmarked a novel validity index (Mittal et al.) against standard metrics for hyperspherical clusters.
+Energy Consumption Forecasting |Python, Scikit-learn, Pandas Oct 2025
+•Developed a predictive model to forecast time-series energy data, achieving a high R-Squared value.
+•Implemented extensive Feature Engineering (lag/rolling stats) to capture seasonality trends.
+Experience & Achievements
+Club Head |Computer Vision Club, Mahindra University Aug 2025 – Present
+•Spearheaded the university’s AI community by designing technical curricula for Deep Learning and CV.
+•Organized and led hands-on workshops for 100+ students, fostering a collaborative coding environment.
+AI Research: Explainable AI (XAI) |UCI Concrete Dataset, SHAP Jan 2026
+•Conducted research on material strength prediction and utilized SHAP/LIME to interpret black-box models.
+Football Data Analyst |Independent Work, Python Dec 2025 – Present
+•Developed a player market value model for two teams to estimate squad valuation and transfer fees.
+•Analyzed match data using Pandas/mplsoccer to visualize passing networks and xG metrics for scouting.
+Honors & Awards
+•Academic Excellence: Awarded Academic Scholarship twice for maintaining high GPA.
+•Global Rank: Achieved Top 5%ile in the Adobe x GeeksforGeeks Hackathon.
+•Chess Club: Represented the university chess team in inter-college tournaments.
